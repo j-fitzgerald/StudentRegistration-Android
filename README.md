@@ -12,15 +12,18 @@ Android application to allow a student to:
 - unregister/waitlist selected courses
 
 Using the Application:
-Setup a new student and register with the server if one does not alreadhy exist
+Setup a new student and register with the server if one does not already exist
 - Student data is stored on the phone, and loaded on start
+
 View my courses:
 - Returns the current courses, split by Currently Registered and Waitlisted
 - Select any course to remove it from Currently Registered or Waitlist
 - Option to delete the local student file for testing <Only 1 student per device is based on assignment restriction>
+
 Search for courses:
 - Must select a Subject, and can further filter by times and course levels
 - If search results are excessive (over 200 results) requests further filtration
+
 Search Results:
 - Display the search results, displaying important course data
 - select any course to display the full course details
