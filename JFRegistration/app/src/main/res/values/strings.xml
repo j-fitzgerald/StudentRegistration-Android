@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">JFRegistration</string>
+
+    <!--BOTTOM NAVIGATION-->
+    <string name="title_home">Home</string>
+    <string name="title_search">Search Courses</string>
+    <string name="title_myCourses">My Courses</string>
+
+    <!--REGISTRATION SCREEN-->
+    <string name="textFirstName">First Name</string>
+    <string name="textLastName">Last Name</string>
+    <string name="textRedID">Red ID</string>
+    <string name="textEmail">E-mail</string>
+    <string name="textPassword">Password</string>
+    <string name="loginButton">Login</string>
+    <string name="loginFailed">Invalid Data</string>
+    <string name="successfulRegistration">Student Added</string>
+
+    <!--HOME SCREEN (LOGGED IN)-->
+    <string name="homeWelcome">Welcome</string>
+    <string name="homeSearch">Search for courses</string>
+    <string name="homeViewClasses">View and adjust your classes</string>
+
+    <!--Search Filter Screen-->
+    <string name="subjectFilterHeader">Filter by Subject</string>
+    <string name="levelFilterHeader">Filter by Class Level</string>
+    <string name="timeFilterHeader">Filter by Time</string>
+    <string name="levelFilter">Level</string>
+    <string name="timeFilter">Time</string>
+    <string name="subjectFilter">Subject</string>
+    <string name="performSearch">Perform Search</string>
+    <string name="searchClear">Clear All</string>
+    <string name="beforeRadio">End Before</string>
+    <string name="afterRadio">Start After</string>
+    <string name="subjectPreface">Subject:\t</string>
+    <string name="levelPreface">Level:\t</string>
+    <string name="beforePreface">Before:\t</string>
+    <string name="afterPreface">After:\t</string>
+    <string-array name="levels">
+        <item>level</item>
+        <item>lower</item>
+        <item>upper</item>
+        <item>graduate</item>
+    </string-array>
+    <string name="noResultsToast">No Matching Results</string>
+    <string name="tooManyResultsToast">Too many results, add more filters</string>
+
+    <!--Search Results-->
+    <string name="backSearchResults">Back to results</string>
+    <string name="registerButton">Register</string>
+    <string name="waitlistButton">Waitlist</string>
+    <string name="registered">Registration Successful</string>
+    <string name="waitlisted">Added to waitlist</string>
+    <string name="loading">loading . . .</string>
+
+    <!--MyCourses-->
+    <string name="waitlistHeader">Waitlisted Classes</string>
+    <string name="registeredHeader">Registered Classes</string>
+    <string name="myClassesHelper">Select a class to unregister</string>
+    <string name="resetButton">Reset User</string>
+    <string name="deleteUser">Delete User\n(Start Over)</string>
+    <string name="deletedUser">Local user deleted\nrestart for new login</string>
+    <string name="none">No courses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
